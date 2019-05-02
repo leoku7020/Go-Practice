@@ -16,5 +16,5 @@
  - 非強制性編譯風格
  - $ go fmt *.go 自動排版
 
-##參考
-https://ithelp.ithome.com.tw/users/20079210/ironman/721
+## 參考
+ - https://ithelp.ithome.com.tw/users/20079210/ironman/721
